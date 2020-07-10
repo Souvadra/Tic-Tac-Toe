@@ -1,8 +1,5 @@
-Pygame is required for the Graphical User Interface part of the game, hence to install that, type the following command in your terminal Once in the directory for the project, 
-
-run pip3 install -r requirements.txt
-
-[I have checked it in Linux and MacOS environment, Do the equivalent thing in Windows as well]
+To be sure all the required Python libraries required to run this program is installed, in terminal, go to the directory and type: 
+                                          run pip3 install -r requirements.txt
 
 Then, run the "runner.py" program to play to game, an extra window will pop up, once you start this program. 
 
